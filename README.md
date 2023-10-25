@@ -1,2 +1,2 @@
-# Workshop1PL
+# Workshop1PL_try1
 Workshop1PL_Gliwice_critical_infrastructure
